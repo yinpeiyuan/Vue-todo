@@ -1,6 +1,6 @@
 ### vue+webpack搭建一个TODOlist
 
-github地址：
+github地址：https://github.com/yinpeiyuan/Vue-todo
 
 页面展示地址：https://yinpeiyuan.github.io/projects/vue_todo/
 
@@ -12,7 +12,7 @@ github地址：
 
 - 成果演示
 
-![](/vue-todo.assets/44.gif)
+![](./README.assets/44.gif)
 
 - 简单说明
 
